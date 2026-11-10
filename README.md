@@ -4,6 +4,8 @@ A cozy miniature world builder in the browser. You shape a small faceted planet 
 
 Built with React 19, Three.js, Vite and Tailwind CSS.
 
+**▶ Try it live: [little-terrarium.vercel.app](https://little-terrarium.vercel.app/)**
+
 ![The terrarium planet inside its glass orb, with the tool dock on the right](docs/screenshot.png)
 
 ## Getting started
